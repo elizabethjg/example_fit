@@ -5,6 +5,6 @@ The profile is obtained using CFHTLens catalog (http://www.cadc-ccda.hia-iha.nrc
 To run it:
 1) clone the repository 
 2) create lenex environment 
-conda create --name lenex --file lenex_env.txt
+   $ conda create --name lenex --file lenex_env.txt
 3) $ pip install colossus
 4) jupyter notebook 
